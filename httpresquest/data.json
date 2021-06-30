@@ -1,0 +1,37 @@
+{
+    "editor.linkedEditing": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "better-comments.highlightPlainText": true,
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Mayukai Alucard",
+    "editor.wordWrap": "on",
+    "editor.definitionLinkOpensInPeek": true,
+    "git.ignoreMissingGitWarning": true,
+    "editor.find.addExtraSpaceOnTop": false,
+    "terminal.integrated.fontFamily": "'JetBrains Mono'",
+    "debug.console.fontFamily": "'JetBrains Mono'",
+    "tailwindCSS.rootFontSize": 14,
+    "markdown.preview.fontSize": 16,
+    "vsicons.dontShowNewVersionMessage": true,
+    "tabnine.experimentalAutoImports": true,
+    "material-icon-theme.activeIconPack": "react",
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "php.validate.executablePath": "D:/wamp64/bin/php/php7.4.9/php.exe"
+}
